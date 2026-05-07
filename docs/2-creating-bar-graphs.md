@@ -3,6 +3,13 @@
 title: Creating Bar Graphs
 parent: Tableau Workshop Demonstration Tutorial
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-08-31
 nav_order: 2
 ---
 
@@ -142,3 +149,5 @@ nav_order: 2
 10. Again, give your graph a title “Quarterly Profit by Sub-Categories”. Lovely!
 
 11. <img src='{{ '/assets/images/ReTableauWorkshop2-10.jpg' | relative_url }}' alt='Quarterly Profit by Sub-Categories bar line graph is shown' title='' width='1221' height='763' />
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

@@ -2,6 +2,13 @@
 title: Creating Scatter Plots
 parent: Tableau Workshop Demonstration Tutorial
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-08-31
 nav_order: 4
 ---
 
@@ -71,3 +78,5 @@ nav_order: 4
     Now you should see some controls on the right. The user can scroll through three different Scatter Plots, one for each year, or they can click on the Play button to have it animate through the years.  
     
     <img src='{{ '/assets/images/ReTableauWorkshop4-12.2.jpg' | relative_url }}' alt='Year scatter plots control bar outlined with a red box' title='' width='1210' height='724' />
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

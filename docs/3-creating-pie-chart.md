@@ -2,6 +2,13 @@
 title: Creating Pie Charts
 parent: Tableau Workshop Demonstration Tutorial
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-08-31
 nav_order: 3
 ---
 
@@ -53,3 +60,5 @@ nav_order: 3
 11. We can see the number of words used is quite evenly distributed throughout the acts, but Act 3 uses the most and Act 5 uses the least.  
 
     <img src='{{ '/assets/images/ReTableauWorkshop3-11.jpg' | relative_url }}' alt='' title='A pie chart is displayed' width='1059' height='761' />
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

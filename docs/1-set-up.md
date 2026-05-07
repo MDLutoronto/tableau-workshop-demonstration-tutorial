@@ -2,6 +2,13 @@
 title: Set Up and Starting Up
 parent: Tableau Workshop Demonstration Tutorial
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-08-31
 nav_order: 1
 ---
 
@@ -13,3 +20,5 @@ nav_order: 1
 	* [RomeoAndJulietWordFrequenciesByAct.xlsx](https://maps.library.utoronto.ca/workshops/Tableau2022/RomeoAndJulietWordFrequenciesByAct.xlsx)
 
 2. Open up Tableau Desktop (tutorial uses version 2022.2).
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
