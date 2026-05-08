@@ -2,6 +2,13 @@
 title: Creating Dashboards
 parent: Tableau Workshop Demonstration Tutorial
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-08-31
 nav_order: 5
 ---
 
@@ -103,3 +110,5 @@ nav_order: 5
     <img src='{{ '/assets/images/ReTableauWorkshop5-14.3.jpg' | relative_url }}' alt='Embed Code is outlined with a red box' title='' width='262' height='205' />
 
 And that’s it!
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
