@@ -79,4 +79,4 @@ nav_order: 4
     
     <img src='{{ '/assets/images/ReTableauWorkshop4-12.2.jpg' | relative_url }}' alt='Year scatter plots control bar outlined with a red box' title='' width='1210' height='724' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

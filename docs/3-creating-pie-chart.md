@@ -61,4 +61,4 @@ nav_order: 3
 
     <img src='{{ '/assets/images/ReTableauWorkshop3-11.jpg' | relative_url }}' alt='' title='A pie chart is displayed' width='1059' height='761' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)

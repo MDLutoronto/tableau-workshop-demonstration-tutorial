@@ -150,4 +150,4 @@ nav_order: 2
 
 11. <img src='{{ '/assets/images/ReTableauWorkshop2-10.jpg' | relative_url }}' alt='Quarterly Profit by Sub-Categories bar line graph is shown' title='' width='1221' height='763' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
