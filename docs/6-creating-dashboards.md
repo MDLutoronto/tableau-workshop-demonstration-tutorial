@@ -9,7 +9,7 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2022-08-31
-nav_order: 5
+nav_order: 6
 ---
 
 ## Creating Dashboards

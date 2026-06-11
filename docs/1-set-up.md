@@ -19,6 +19,6 @@ nav_order: 1
 	* [AuthorDataExperience.xlsx](https://maps.library.utoronto.ca/workshops/Tableau2022/AuthorDataExperience.xlsx)
 	* [RomeoAndJulietWordFrequenciesByAct.xlsx](https://maps.library.utoronto.ca/workshops/Tableau2022/RomeoAndJulietWordFrequenciesByAct.xlsx)
 
-2. Open up Tableau Desktop (tutorial uses version 2022.2).
+2. Open up Tableau (this tutorial was initially designed using [Tableau Desktop](https://www.tableau.com/products/desktop), but also works with the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download)).
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
