@@ -29,18 +29,18 @@ nav_order: 5
         
     This is the dataset containing names of authors, their countries and institutions, research interests, how many citations they’ve received over a few years, and how much grant money they’ve received over a few years.
     <img src='{{ '/assets/images/ReReReTableauWorkshop4-2.4New.jpg' | relative_url }}' alt='AuthorDataMain table information is outlined with a red box' title='' width='1316' height='879' />
-3. Now click on “Add” next to Connections on the top left to add a second dataset, select Microsoft Excel.  
+3. Now click on the plus sign next to Connections on the top left to add a second dataset. Select Microsoft Excel.  
     
-    <img src='{{ '/assets/images/ReTableauWorkshop4-3.jpg' | relative_url }}' alt='Add and Microsoft Excel are outlined with red boxes' title='' width='1055' height='658' />  
+    <img src='{{ '/assets/images/ReTableauWorkshop4-3.png' | relative_url }}' alt='The plus sign and Microsoft Excel are outlined with red boxes' title='' width='1055' height='658' />  
     
     Then pick the AuthorDataExperience.xls file. This dataset has just author names along with how many years of experience they have as a researcher.  
 
     <img src='{{ '/assets/images/ReReTableauWorkshop4-3.2.jpg' | relative_url }}' alt='AuthorDataExperience.xls outlined with a red box' title='' width='1055' height='643' />
-4. To relate or connect the two datasets, drag AuthorDataExperience under Sheets over to the section where it says, “Need more data?” (if you don't see AuthorDataExperience under Sheets, make sure that AuthorDataExperience is selected under Connections).  
+4. To relate or connect the two datasets, drag AuthorDataExperience under Sheets over to the blank space next to AuthorDataMain (if you don't see AuthorDataExperience under Sheets, make sure that AuthorDataExperience is selected under Connections).  
 
     <img src='{{ '/assets/images/ReTableauWorkshop4-4.1.jpg' | relative_url }}' alt='AuthorDataExperience under Sheets and Need more Data? Are outlined with red boxes' title='' width='1120' height='613' />  
 
-    The bottom window shows us that the data has been related together based on a common column, Author. Now the years of experience data will also be associated with the appropriate authors additional data found in the first table. Tableau performs relates and joins on the fly, as needed. If these terms are new to you, see these articles on [relationships](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_relationships_learnmorepage.htm) and [joins](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins) in the slides.
+    The bottom window shows us that the data has been related together based on a common column, Author. Now the years of experience data will also be associated with the appropriate authors additional data found in the first table. Tableau performs relates and joins on the fly, as needed. If these terms are new to you, see this article on [relationships & joins](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_relationships_learnmorepage.htm).
 
     <img src='{{ '/assets/images/ReReTableauWorkshop4-4.2New.jpg' | relative_url }}' alt='AuthorDataMain, Operator and AuthorDataExperience outlined with a red box' title='' width='826' height='358' />
 5. Then we can click on the New Worksheet icon at the bottom. Let’s rename this one to “Scatter Plot”.  
@@ -60,7 +60,7 @@ nav_order: 5
 
     When you hover over a point, you can see the details.  
 
-    <img src='{{ '/assets/images/ReTableauWorkshop3-9.2.jpg' | relative_url }}' alt='Scatter Plot shown' title='' width='808' height='657' />
+    <img src='{{ '/assets/images/ReTableauWorkshop3-9.2.png' | relative_url }}' alt='Scatter Plot shown' title='' width='808' height='657' />
 10. You may notice there is now also another box on the Marks card called Shape. If you want to add another categorical variable to your Scatter Plot, you could do so by using different shapes to represent different categories. Drag Institution on to the Shape box. Now you should see that there is a legend on the right, using different shapes for different institutions.
     
     <img src='{{ '/assets/images/ReTableauWorkshop4-10.jpg' | relative_url }}' alt='Institution under the Tables menu, Shape under the Marks label is outlined with red boxes. Institution legend shown and outlined with a red box at the top right' title='' width='1583' height='676' />

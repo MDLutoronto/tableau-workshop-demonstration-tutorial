@@ -18,11 +18,20 @@ nav_order: 2
 
     <img src='{{ '/assets/images/TableauWorkshop1.1.jpg' | relative_url }}' alt='The Tableau home screen is shown with Sample – Superstore outlined with a red box at the bottom left' title='' width='1642' height='971' />
 
-    OR If you are using Tableau Public, you will need to first download the [Superstore Sales dataset from Tableau](https://public.tableau.com/app/sample-data/sample_-_superstore.xls). Then in Tableau, we need to load the data. Click on Microsoft Excel under Connect To a File. Select the superstore file. Drag the Orders sheet into the blank space to the right of it to select that sheet from the Excel workbook. Finally, click on Sheet 1 at the bottom.
+    OR If you are using Tableau Public, you will need to first download the [Superstore Sales dataset from Tableau](https://public.tableau.com/app/sample-data/sample_-_superstore.xls). Then in Tableau, we need to load the data. Click on Microsoft Excel under Connect To a File.  
 
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001b.png' | relative_url }}' alt='The Tableau home screen is shown with Microsoft Excel outlined with a red box at the bottom left' title='' width='1642' height='971' /> 
+
+    Select the superstore file.
+
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001c.png' | relative_url }}' alt='The superstore Excel file and the Open button outlined with red boxes' title='' width='1642' height='971' /> 
+
+    Drag the Orders sheet into the blank space to the right of it to select that sheet from the Excel workbook. 
+
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001d.png' | relative_url }}' alt='The Tableau data loading screen is shown with the Orders sheet outlined with a red box and an arrow indicating to the right to illustrate dragging it to the right' title='' width='1642' height='971' /> 
+
+    Finally, click on Sheet 1 at the bottom.
+    
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001e.png' | relative_url }}' alt='The Tableau data loading screen is shown with Sheet 1 outlined with a red box at the bottom left' title='' width='1642' height='971' /> 
 
 
