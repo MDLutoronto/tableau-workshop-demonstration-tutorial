@@ -23,7 +23,7 @@ nav_order: 2
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001b.png' | relative_url }}' alt='The Tableau home screen is shown with Microsoft Excel outlined with a red box at the bottom left' title='' width='1642' height='971' /> 
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001c.png' | relative_url }}' alt='The superstore Excel file and the Open button outlined with red boxes' title='' width='1642' height='971' /> 
     <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001d.png' | relative_url }}' alt='The Tableau data loading screen is shown with the Orders sheet outlined with a red box and an arrow indicating to the right to illustrate dragging it to the right' title='' width='1642' height='971' /> 
-    <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001b.png' | relative_url }}' alt='The Tableau data loading screen is shown with Sheet 1 outlined with a red box at the bottom left' title='' width='1642' height='971' /> 
+    <img src='{{ '/assets/images/Tableau_Demo_BarGraph_001e.png' | relative_url }}' alt='The Tableau data loading screen is shown with Sheet 1 outlined with a red box at the bottom left' title='' width='1642' height='971' /> 
 
 
 2. Let’s look around first before we dive in. On the left you can see Tables listed. Within a Table, the variables are listed, but divided by a thin grey line. Tableau categorizes variables as either Dimensions (above the line) or Measures (below the line). Dimensions are roughly qualitative data and Measures are roughly quantitative data.
@@ -92,7 +92,7 @@ nav_order: 2
     <img src='{{ '/assets/images/ReTableauWorkshop1-14.jpg' | relative_url }}' alt='The drop-down menu from the top ribbon is outlined with a red box with Entire View highlighted' title='' width='1373' height='868' />
 17. Finally, we can give our visualization a more meaningful title by double clicking where it says “Sales Bar” at the top. You’ll see the default title is the sheet name, but we can change that. Let’s put “Sales by Sub-Category for “ then instead of typing in “California”, we can make the title dynamic by click on Insert and selecting State. Then if we change the filter, the title will automatically change.   
 
-    <img src='{{ '/assets/images/ReTableauWorkshop1-15.png' | relative_url }}' alt='The Insert drop-down menu at the top right and State/Province near the bottom of the drop-down options are outlined with a red box' title='' width='658' height='495' />
+    <img src='{{ '/assets/images/ReTableauWorkshop1-15.png' | relative_url }}' alt='The Insert drop-down menu at the top right and State near the bottom of the drop-down options are outlined with a red box' title='' width='658' height='495' />
 
 Now we’re done our first visualization!
 
