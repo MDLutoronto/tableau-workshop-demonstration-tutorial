@@ -38,7 +38,7 @@ nav_order: 5
     <img src='{{ '/assets/images/ReReTableauWorkshop4-3.2.jpg' | relative_url }}' alt='AuthorDataExperience.xls outlined with a red box' title='' width='1055' height='643' />
 4. To relate or connect the two datasets, drag AuthorDataExperience under Sheets over to the blank space next to AuthorDataMain (if you don't see AuthorDataExperience under Sheets, make sure that AuthorDataExperience is selected under Connections).  
 
-    <img src='{{ '/assets/images/ReTableauWorkshop4-4.1.jpg' | relative_url }}' alt='AuthorDataExperience under Sheets and Need more Data? Are outlined with red boxes' title='' width='1120' height='613' />  
+    <img src='{{ '/assets/images/ReTableauWorkshop4-4.1.png' | relative_url }}' alt='AuthorDataExperience under Sheets is outlined with a red box and an arrow indicates where to drag it' title='' width='1120' height='613' />  
 
     The bottom window shows us that the data has been related together based on a common column, Author. Now the years of experience data will also be associated with the appropriate authors additional data found in the first table. Tableau performs relates and joins on the fly, as needed. If these terms are new to you, see this article on [relationships & joins](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_relationships_learnmorepage.htm).
 
