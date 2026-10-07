@@ -14,7 +14,7 @@ nav_order: 4
 
 ## Creating Pie Charts
 
-1. Let’s try loading our own data – this time some qualitative humanities data. Tableau is not meant to work directly with text data files, but you can use other better-suited textual analysis tools to create datasets that you can then visualize in Tableau. What I did was take the freely available text for Shakespeare’s play Romeo and Juliet. I ran it through a free online tool called [Voyant Tools](https://voyant-tools.org/) and it generated a word frequency table that we are now going to use as our dataset. If you want to learn more about textual analysis and visualization tools, such as Voyant, you can take a look at the [Tools & Tutorials page](https://mdl.library.utoronto.ca/dataviz/tools-tutorials) in the [data viz guide](https://mdl.library.utoronto.ca/dataviz/getting-started).  
+1. Let’s try loading our own data – this time some qualitative humanities data. Tableau is not meant to work directly with text data files, but you can use other better-suited textual analysis tools to create datasets that you can then visualize in Tableau. What I did was take the freely available text for Shakespeare’s play Romeo and Juliet. I ran it through a free online tool called [Voyant Tools](https://voyant-tools.org/) and it generated a word frequency table that we are now going to use as our dataset. If you want to learn more about textual analysis and visualization tools, such as Voyant, you can take a look at the [Tools & Tutorials page](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization) in the [data viz guide](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization).  
 
     <img src='{{ '/assets/images/ReTableauWorkshop3-1.jpg' | relative_url }}' alt='Voyant home screen is shown' title='' width='1004' height='521' />
 2. Let’s load this word frequency data into Tableau. Go to Data->New Data Source.  
@@ -61,4 +61,4 @@ nav_order: 4
 
     <img src='{{ '/assets/images/ReTableauWorkshop3-11.jpg' | relative_url }}' alt='' title='A pie chart is displayed' width='1059' height='761' />
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
